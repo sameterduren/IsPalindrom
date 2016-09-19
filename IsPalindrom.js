@@ -26,4 +26,3 @@ if(isPalindrom(number))
 	console.log("it's palindrom");
 else
 	console.log("it isn't palindrom")
-//1001
