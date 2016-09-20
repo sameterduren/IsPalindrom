@@ -9,7 +9,6 @@ function isPalindrom(number){
 
 		if(number[i]==number[(number.length-1)-i]){
 			value = true;
-			
 		}
 		else{
 			value = false;
